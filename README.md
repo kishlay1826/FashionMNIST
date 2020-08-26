@@ -1,2 +1,2 @@
-# FashionMNIST
-A classifier for the Fashion MNIST dataset using convolutional neural network in Keras
+# Fashion MNIST
+A convolutional neural network model for classifying objects in the Fashion MNIST dataset. 
